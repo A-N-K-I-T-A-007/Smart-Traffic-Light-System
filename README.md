@@ -21,3 +21,5 @@ The system uses **HCSR-04 Ultrasonic sensors** to monitor vehicle density on bot
 * **Outputs:** LEDs (Red, Yellow, Green for both sides)
 * Close distance (e.g., < 10cm) = Car is right at the sensor.
 * Far distance (e.g.,> 100cm) = Lane is empty.
+
+* Live Simulation Link: https://www.tinkercad.com/things/lWZrTBf5Fe8-2-way-traffic?sharecode=hCA2sMFBpEWfxjNttjZGXNxdTnro2-AJ0EYQ8EMM1wo
